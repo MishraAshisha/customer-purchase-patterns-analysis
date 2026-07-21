@@ -3,8 +3,11 @@ An end-to-end analysis of retail customer shopping behaviour using SQL, Python, 
 
 ## 🛠️ Tools Used
 SQL – Data cleaning, transformation, and querying
+
 Python – Exploratory data analysis and preprocessing (Jupyter Notebook)
+
 Power BI – Data modeling, visualization, and interactive dashboard design
+
 Tableau – Supplementary dashboard for e-commerce performance and customer behaviour analysis
 
 ## 🗃️ SQL Queries
