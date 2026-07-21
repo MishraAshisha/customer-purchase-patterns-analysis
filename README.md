@@ -56,7 +56,7 @@ Gloves and sandals receive the highest average review ratings
 [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzdiNzlhMjgtN2Y4NS00ZWRiLTg5ZjEtZjNiMTk2ZmE5ZDA1IiwidCI6ImYxNWQ4YWQ1LTViZjYtNDg1NC1iNGRkLTg1MDM1MGNiYjhlMCJ9)
 
 ## 📈 Tableau Dashboard — Customer Behaviour Analysis & E-Commerce Performance
-Download and open in Tableau: [View Live Dashboard](https://public.tableau.com/views/E2EPROJECT2-RETAIL_COMPANY/Project?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View Live Dashboard](https://public.tableau.com/views/E2EPROJECT2-RETAIL_COMPANY/Project?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📄 License
 This project is licensed under the MIT License.
