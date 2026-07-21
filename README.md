@@ -11,7 +11,7 @@ Power BI: Data modeling, visualization, and interactive dashboard design
 Tableau: Supplementary dashboard for e-commerce performance and customer behaviour analysis
 
 ## 🗃️ SQL Queries
-See the full list of SQL queries used in this project:[CBA.sql](CBA.sql)
+See the full list of SQL queries used in this project: [CBA.sql](CBA.sql)
 
 ## 🐍 Python Analysis
 Exploratory analysis and data preparation notebook: E2E_PROJECT_2_Customer_Behaviour_Analysis.ipynb
