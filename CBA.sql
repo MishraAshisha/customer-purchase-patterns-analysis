@@ -147,3 +147,6 @@ group by
 	age_groups
 order by 
 	total_revenue desc
+
+-- Written and Analysed by Ashisha Mishra
+-- Email: connect.amishra@protonmail.com
