@@ -23,7 +23,7 @@ Subscription impact on customer segments (Loyal, New, Returning) and repeat-buye
 Customer distribution across segments and gender
 Age group purchase behaviour by subscription status (Young Adult, Middle Age, Senior, Adult)
 
-## 📌 Power BI | Page 2: Product & Revenue Performance Overview
+### 📌 Power BI | Page 2: Product & Revenue Performance Overview
 
 233.08K total revenue with an average product rating of 3.75
 Top 5 products by average review rating and by discount dependency
