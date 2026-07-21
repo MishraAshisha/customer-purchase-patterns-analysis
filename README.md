@@ -2,13 +2,13 @@
 An end-to-end analysis of retail customer shopping behaviour using SQL, Python, Power BI, and Tableau, uncovering subscription trends, purchase patterns, and revenue drivers.
 
 ## 🛠️ Tools Used
-SQL – Data cleaning, transformation, and querying
+SQL: Data cleaning, transformation, and querying
 
-Python – Exploratory data analysis and preprocessing (Jupyter Notebook)
+Python: Exploratory data analysis and preprocessing (Jupyter Notebook)
 
-Power BI – Data modeling, visualization, and interactive dashboard design
+Power BI: Data modeling, visualization, and interactive dashboard design
 
-Tableau – Supplementary dashboard for e-commerce performance and customer behaviour analysis
+Tableau: Supplementary dashboard for e-commerce performance and customer behaviour analysis
 
 ## 🗃️ SQL Queries
 See the full list of SQL queries used in this project: Analysis_on_Retail_Store_shopping_behaviour.sql
