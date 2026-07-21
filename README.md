@@ -38,11 +38,21 @@ Revenue contribution by age group
 Top 3 products per category by total orders across Accessories, Clothing, Footwear, and Outerwear
 Filters for Category and Shipping Type
 
+## 🔗 Power BI Dashboard
+[View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzdiNzlhMjgtN2Y4NS00ZWRiLTg5ZjEtZjNiMTk2ZmE5ZDA1IiwidCI6ImYxNWQ4YWQ1LTViZjYtNDg1NC1iNGRkLTg1MDM1MGNiYjhlMCJ9)
+
+
 ### 📌 Tableau | Customer Behaviour Analysis & E-Commerce Performance
+
+![Dashboard Screenshot](CBA-T1.PNG.png)
+
 End-to-end view of subscription impact and retention behaviour
 Subscription distribution by repeat status across Loyal and Non-Repeat buyers
 Revenue contribution by age group and subscription status
 Seasonal and category-based filtering across all views
+
+## 📈 Tableau Dashboard — Customer Behaviour Analysis & E-Commerce Performance
+[View Live Dashboard](https://public.tableau.com/views/E2EPROJECT2-RETAIL_COMPANY/Project?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### 🔑 Key Insights
 Repeat buyers make up the majority of subscribed customers, showing subscriptions strongly support retention
@@ -51,12 +61,6 @@ Young Adults lead in purchase volume, followed closely by Middle Age and Senior 
 Revenue is fairly evenly distributed across age groups, with Young Adults contributing the largest share (26.66%)
 Hats and sneakers show the highest discount dependency among top products
 Gloves and sandals receive the highest average review ratings
-
-## 🔗 Power BI Dashboard
-[View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzdiNzlhMjgtN2Y4NS00ZWRiLTg5ZjEtZjNiMTk2ZmE5ZDA1IiwidCI6ImYxNWQ4YWQ1LTViZjYtNDg1NC1iNGRkLTg1MDM1MGNiYjhlMCJ9)
-
-## 📈 Tableau Dashboard — Customer Behaviour Analysis & E-Commerce Performance
-[View Live Dashboard](https://public.tableau.com/views/E2EPROJECT2-RETAIL_COMPANY/Project?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📄 License
 This project is licensed under the MIT License.
