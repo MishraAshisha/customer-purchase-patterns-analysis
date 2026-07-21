@@ -20,6 +20,8 @@ Exploratory analysis and data preparation notebook: E2E_PROJECT_2_Customer_Behav
 
 ### 📌 Power BI | Page 1: Customer Engagement & Subscription Performance
 
+![Dashboard Screenshot](CBA - PBI1.PNG)
+
 3,900 total customers with 3,476 repeat buyers and 1,053 subscribed customers
 1,677 discount users and an average order value of 59.76
 Subscription impact on customer segments (Loyal, New, Returning) and repeat-buyer behaviour
