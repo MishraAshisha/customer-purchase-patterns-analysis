@@ -53,7 +53,7 @@ Hats and sneakers show the highest discount dependency among top products
 Gloves and sandals receive the highest average review ratings
 
 ## 🔗 Power BI Dashboard
-View Live Dashboard 
+[View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzdiNzlhMjgtN2Y4NS00ZWRiLTg5ZjEtZjNiMTk2ZmE5ZDA1IiwidCI6ImYxNWQ4YWQ1LTViZjYtNDg1NC1iNGRkLTg1MDM1MGNiYjhlMCJ9)
 
 ## 📈 Tableau Dashboard — Customer Behaviour Analysis & E-Commerce Performance
 Download and open in Tableau: E2E PROJECT 2 - Customer Behaviour Analysis.twbx
