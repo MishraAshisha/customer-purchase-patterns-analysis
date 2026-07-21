@@ -20,17 +20,19 @@ Exploratory analysis and data preparation notebook: E2E_PROJECT_2_Customer_Behav
 
 ### 📌 Power BI | Page 1: Customer Engagement & Subscription Performance
 
-![Dashboard Screenshot](CBA - PBI1.PNG)
+![Dashboard Screenshot](CBA-PBI1.PNG)
 
-3,900 total customers with 3,476 repeat buyers and 1,053 subscribed customers
-1,677 discount users and an average order value of 59.76
+**3,900** total customers with **3,476** repeat buyers and **1,053** subscribed customers
+**1,677** discount users and an average order value of **59.76**
 Subscription impact on customer segments (Loyal, New, Returning) and repeat-buyer behaviour
 Customer distribution across segments and gender
 Age group purchase behaviour by subscription status (Young Adult, Middle Age, Senior, Adult)
 
 ### 📌 Power BI | Page 2: Product & Revenue Performance Overview
 
-233.08K total revenue with an average product rating of 3.75
+![Dashboard Screenshot](CBA-PBI2.PNG)
+
+**233.08K** total revenue with an average product rating of **3.75**
 Top 5 products by average review rating and by discount dependency
 Revenue contribution by age group
 Top 3 products per category by total orders across Accessories, Clothing, Footwear, and Outerwear
