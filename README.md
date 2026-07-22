@@ -1,5 +1,7 @@
 # 🛍️ Customer Behaviour Analysis: Retail Company
 
+**By Ashisha Mishra**
+
 An end-to-end analysis of retail customer shopping behaviour using SQL, Python, Power BI, and Tableau, uncovering subscription trends, purchase patterns, and revenue drivers.
 
 ## 🛠️ Tools Used
