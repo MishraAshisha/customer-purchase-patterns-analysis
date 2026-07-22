@@ -42,7 +42,7 @@ Revenue contribution by age group
 Top 3 products per category by total orders across Accessories, Clothing, Footwear, and Outerwear
 Filters for Category and Shipping Type
 
-## 🔗 Power BI Dashboard
+#### 🔗 Power BI Dashboard Link
 [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzdiNzlhMjgtN2Y4NS00ZWRiLTg5ZjEtZjNiMTk2ZmE5ZDA1IiwidCI6ImYxNWQ4YWQ1LTViZjYtNDg1NC1iNGRkLTg1MDM1MGNiYjhlMCJ9)
 
 
@@ -55,7 +55,7 @@ Subscription distribution by repeat status across Loyal and Non-Repeat buyers
 Revenue contribution by age group and subscription status
 Seasonal and category-based filtering across all views
 
-## 📈 Tableau Dashboard — Customer Behaviour Analysis & E-Commerce Performance
+#### 📈 Tableau Dashboard Link
 [View Live Dashboard](https://public.tableau.com/views/E2EPROJECT2-RETAIL_COMPANY/Project?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### 🔑 Key Insights
